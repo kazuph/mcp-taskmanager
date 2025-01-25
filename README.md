@@ -1,8 +1,17 @@
 # MCP TaskManager
+[![smithery badge](https://smithery.ai/badge/@kazuph/mcp-taskmanager)](https://smithery.ai/server/@kazuph/mcp-taskmanager)
 
 Model Context Protocol server for Task Management. This allows Claude Desktop (or any MCP client) to manage and execute tasks in a queue-based system.
 
 ## Quick Start (For Users)
+
+### Installing via Smithery
+
+To install TaskManager for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kazuph/mcp-taskmanager):
+
+```bash
+npx -y @smithery/cli install @kazuph/mcp-taskmanager --client claude
+```
 
 ### Prerequisites
 - Node.js 18+ (install via `brew install node`)
