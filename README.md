@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kazuph-mcp-taskmanager-badge.png)](https://mseep.ai/app/kazuph-mcp-taskmanager)
+
 # MCP TaskManager
 
 Model Context Protocol server for Task Management. This allows Claude Desktop (or any MCP client) to manage and execute tasks in a queue-based system.
